@@ -20,3 +20,4 @@ You have to alter value `matrix_file` and `label_file` in the code.Also you have
 > LPA,BGLL,walktrap,fastgreedy
 ## DataOutput
 Modularity and the Graph
+![imgae](https://github.com/TerenceLiu2/community_detection/blob/master/1.png)
